@@ -1,0 +1,4 @@
+2018-08-15 21:24:27,381 - root - INFO - ********TEST START********
+2018-08-15 21:24:27,383 - root - ERROR - 'super' object has no attribute '__getattr__'
+2018-08-15 21:24:27,383 - root - INFO - *********TEST END*********
+2018-08-15 21:24:27,383 - root - INFO - Doesn't send report email to developer.
